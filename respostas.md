@@ -55,6 +55,4 @@ R: Usei os comandos docker compose down e depois docker compose up -d para derru
 
 10. Código de conclusão impresso pelo verificador:
 
-```
-(cole aqui)
-```
+AGROVALE-26128483-3DF65E38
